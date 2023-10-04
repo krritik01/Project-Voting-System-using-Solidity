@@ -1,5 +1,5 @@
 # Voting Smart Contract 
-
+![W_msp2017030040-750x500-750x500](https://github.com/krritik01/Project-Voting-System-using-Solidity/assets/98963769/8301ba4b-16f7-42d6-98cc-abea7221a643)
 ## Introduction
 This repository contains a smart contract written in Solidity for conducting voting operations. The smart contract enables users to start and stop voting sessions, add and remove their votes, and retrieve voting results. This README provides an overview of the code, its functionality, and how to use it.
 
