@@ -33,7 +33,7 @@ Decentralize Portfolio is built using the following technologies:
 
 
 
-## Authors
+## Authors.
 
 - [krritik01](https://github.com/krritik01)
 
